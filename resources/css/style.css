@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+#Main-title{
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+#Download-link {
+	color: Aquamarine;
+	font-size: 16px;
+	text-align: center;	
+}
+  
+#Secondary-Title {
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#Copyright{
+	text-align: right;
+	color:gray;
+}
